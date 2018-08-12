@@ -7,7 +7,7 @@ As an innocent junior, I don't want to repeat my "seniors" mistakes in which he/
 The goal is pretty simple, `1 week = 1 pattern`, in parallel, I also learn TypeScript :
 * week #1 : [Strategy Pattern](strategy/)
 * week #2 : [Observer Pattern](observer/)
-
+* week #2 : [Bridge Pattern](bridge/)
 
 The books some dude on the internet recommend :
 * The GoF (*obligatory*)
