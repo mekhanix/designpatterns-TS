@@ -8,7 +8,7 @@ The goal is pretty simple, `1 week = 1 pattern`, in parallel, I also learn TypeS
 * week #1 : [Strategy Pattern](strategy/)
 * week #2 : [Observer Pattern](observer/)
 * week #2 : [Bridge Pattern](bridge/)
-
+* week #3 : [Singleton Pattern](singleton/)
 The books some dude on the internet recommend :
 * The GoF (*obligatory*)
 * [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
